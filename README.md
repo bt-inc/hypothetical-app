@@ -1,1 +1,3 @@
 # hypothetical-app
+
+Practice project.
